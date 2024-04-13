@@ -16,6 +16,9 @@
 ## DbVisualizer
 - Sweden Company
 
+[Tier](https://www.dbvis.com/pricing/#features)
+- Premium support $99/year
+- license: $229 
 
 ## SQL Database Modeler(sqldbm)
 - Free Plan: 
