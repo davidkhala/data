@@ -4,7 +4,13 @@ A data model is a specification of data structures and business rules.
 - It also answers the who, what, where and why of the data elements.
 
 ## Entity Relationship Diagram (ERD)
-aka. Entity–relationship model 实体关系模型
+an ER diagram is a visual representation of the Entity–relationship model(实体关系模型) 
+![](https://www.dbvis.com/wp-content/uploads/2023/08/1-10-1024x900.png)
+
+
+## Relational schema
+**Relational schema** is a logical data model that represents the structure of a database at a lower level
+
 
 
 
