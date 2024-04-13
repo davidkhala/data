@@ -1,6 +1,5 @@
-# Vendors
-## Freemium
-### Oracle SQL Developer Data Modeler
+# Always Free
+## Oracle SQL Developer Data Modeler
 - free
 - [download](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/)
 - export: https://docs.oracle.com/en/database/oracle/sql-developer-data-modeler/23.1/dmdug/data-modeler-dialogs.html#GUID-4EA7C94C-0C3E-4939-9916-746843E002EC
@@ -9,13 +8,16 @@
 - Tutorial: https://docs.oracle.com/en/database/oracle/sql-developer-data-modeler/23.1/dmdug/data-modeler-tutorial.html#GUID-32A6A171-AEAF-41C6-8920-E0BF7F4E6442
 - [sample models](https://www.oracle.com/database/technologies/appdev/datamodeler-samples.html)
 
-
-### Archi
+## Archi
 [Archimate modelling](https://www.archimatetool.com/)
-## CA ERwin Data Modeler
-- seafood price
+- [Donation](https://www.patreon.com/architool)
 
-### SQL Database Modeler(sqldbm)
+# Freemium
+## DbVisualizer
+- Sweden Company
+
+
+## SQL Database Modeler(sqldbm)
 - Free Plan: 
   - 1 active project
   - No version control: Only current revision accessible
@@ -24,20 +26,20 @@
 - minimum paid plan: [Basic] $50 /month, $500 / year
 - Export to dbt Source YAML: included in Enterprise plan
   
-### [QuickDBD](https://www.quickdatabasediagrams.com/)
+## [QuickDBD](https://www.quickdatabasediagrams.com/)
 - Support MySQL, Oracle, SQL Server
 
 [Tier](https://www.quickdatabasediagrams.com/#pricing)
 - Free:
   - 1 diagram
   - 10 tables per diagram
-   
+- Pro: $14.00/MONTH    $95.00/YEAR   
+  - 10 diagrams
 
 
 
-
-## Enterprise
-### [dbschema](https://dbschema.com/)
+# Enterprise
+## [dbschema](https://dbschema.com/)
 - Connect to any Database & Reverse Engineer the Schema
 - [DB Support list](https://dbschema.com/databases.html)
 - [download](https://dbschema.com/download.html)
@@ -48,6 +50,8 @@
   - Save Model to File
   - Visual Query Builder
 
-### SAP PowerDesigner
+## SAP PowerDesigner
 - dedicated for Sybase
 
+## CA ERwin Data Modeler
+- seafood price
