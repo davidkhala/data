@@ -6,7 +6,10 @@
 - Git: [Data Modeler release 19.2] Data Modeler provides a Git client for using Git versioning with Data Modeler designs
   - [usage](https://docs.oracle.com/en/database/oracle/sql-developer-data-modeler/23.1/dmdug/data-modeler-concepts-usage.html#GUID-CA841FDF-A16A-4BD0-827E-05EE9A43E87A) 
 - Tutorial: https://docs.oracle.com/en/database/oracle/sql-developer-data-modeler/23.1/dmdug/data-modeler-tutorial.html#GUID-32A6A171-AEAF-41C6-8920-E0BF7F4E6442
-- [sample models](https://www.oracle.com/database/technologies/appdev/datamodeler-samples.html)
+- [sample models](https://github.com/davidkhala/datasets/tree/main/SQL/oracle/datamodeler)
+
+Drawback
+- version control system to store the model configuration is based on xml and does not follow Git philosophy
 
 ## Archi
 [Archimate modelling](https://www.archimatetool.com/)
