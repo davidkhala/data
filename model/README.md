@@ -11,11 +11,11 @@ The ERM is a data model used to logically represent and describe relationships b
 - typically used in designing a database.
 
 
-## Relational schema
-**Relational schema** is a logical data model that represents the structure of a database at a lower level
 
 
 
 
 # Ref
 https://www.techtarget.com/searchdatamanagement/tip/7-data-modeling-techniques-and-concepts-for-business
+## is Dead
+https://medium.com/@zhitao.yan/is-data-modeling-dead-3d0977e4aa49
