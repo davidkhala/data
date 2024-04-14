@@ -18,6 +18,7 @@ Drawback
 # Freemium
 ## DbVisualizer
 - Sweden Company
+- java
 
 [Tier](https://www.dbvis.com/pricing/#features)
 - Premium support $99/year
