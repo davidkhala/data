@@ -20,7 +20,8 @@ Drawback
 - [Donation](https://www.patreon.com/architool)
 
 # Freemium
-## DbVisualizer
+## [DbVisualizer]((https://www.dbvis.com/))
+write SQL to query and visualize your data
 - Sweden Company
 - java
 
