@@ -8,4 +8,5 @@ just data index of indexes
 - https://github.com/davidkhala/data-warehouse
 - https://github.com/davidkhala/datasets
 - https://github.com/davidkhala/mq
+- https://github.com/davidkhala/BI-collection
 
