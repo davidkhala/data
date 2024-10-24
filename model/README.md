@@ -16,6 +16,8 @@ The ERM is a data model used to logically represent and describe relationships b
 
 
 # Ref
-https://www.techtarget.com/searchdatamanagement/tip/7-data-modeling-techniques-and-concepts-for-business
+- https://www.techtarget.com/searchdatamanagement/tip/7-data-modeling-techniques-and-concepts-for-business
+- [Mongodb viewpoint](https://www.mongodb.com/resources/basics/databases/data-modeling)
 ## is Dead
 https://medium.com/@zhitao.yan/is-data-modeling-dead-3d0977e4aa49
+
