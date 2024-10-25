@@ -1,0 +1,1 @@
+The idea of a catalog has been around since the early days of relational databases, when IT teams wanted to keep track of how data sets were linked, joined and transformed across SQL tables.
