@@ -65,5 +65,6 @@ write SQL to query and visualize your data
 ## SAP PowerDesigner
 - dedicated for Sybase
 
-## CA ERwin Data Modeler
+## ERwin Data Modeler
+- acquired by Quest.com
 - seafood price
