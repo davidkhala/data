@@ -66,5 +66,5 @@ write SQL to query and visualize your data
 - dedicated for Sybase
 
 ## ERwin Data Modeler
-- acquired by Quest Software
+- acquired by Quest Software in January 05, 2021
 - seafood price
