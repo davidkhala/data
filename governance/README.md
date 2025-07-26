@@ -1,4 +1,17 @@
-# 《数据治理框架》
+
+# Data Governance
+- Data Catalog
+  - Data classification
+- Data Quality
+- Data entitlements and access
+- Data discovery
+- Data sharing and collaboration
+- Data lineage
+- Data security
+
+
+
+## 《数据治理框架》
 国际数据治理研究所（DGI）公布的研究报告
 
 [中文](https://www.secrss.com/articles/8879)
