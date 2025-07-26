@@ -1,13 +1,28 @@
 
 # Data Governance
-- Data Catalog
-  - Data classification
-- Data Quality
-- Data entitlements and access
-- Data discovery
+
+
+## Data discovery
+phases in data analysis and BI, including
+- data collect
+- data prep
+- data visualization
 - Data sharing and collaboration
-- Data lineage
-- Data security
+
+##  Data catalog
+- Data classification: labeling sensitivity, value, and regulatory requirements
+
+## Data sharing and collaboration
+
+
+## Data quality
+Data Clean and Prep 
+
+## Data entitlements and access
+
+## Data sharing and collaboration
+## Data lineage
+## Data security
 
 
 
