@@ -5,11 +5,11 @@
 ## Data discovery
 phases in data analysis and BI, including
 - data collect
-- data prep
+- [data prep](https://github.com/davidkhala/data/wiki/prep)
 - data visualization
 - Data sharing and collaboration
 
-##  Data catalog
+## Data catalog
 - Data classification: labeling sensitivity, value, and regulatory requirements
 
 ## Data sharing and collaboration
