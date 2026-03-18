@@ -1,6 +1,6 @@
 # Data model
 A data model is a specification of data structures and business rules.
-- It creates a **visual representation** of data and illustrates how different data elements are related to each other.
+- It creates a **visual representation** of data and illustrates **relationships** among data elements.
 - It also answers the who, what, where and why of the data elements.
 - It is designed based on **Data Access Pattern**
 
