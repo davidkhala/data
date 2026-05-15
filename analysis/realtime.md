@@ -1,3 +1,4 @@
+[source](https://github.com/davidkhala/real-time-analysis)
 # Real‐time analysis
 Goals
 - Continuously analyzing data to report issues or trends.
