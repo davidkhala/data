@@ -1,6 +1,6 @@
 
 # Data Governance
-
+> 数据为王，治理先行
 
 ## Data discovery
 phases in data analysis and BI, including
