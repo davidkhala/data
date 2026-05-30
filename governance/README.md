@@ -21,7 +21,9 @@ Data Clean and Prep
 ## Data entitlements and access
 
 ## Data sharing and collaboration
-## Data lineage
+## [Data lineage](./lineage/)
+Data lineage is an essential part of data governance
+
 ## Data security
 
 
